@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BaconTesla
+- 👋 Hi, I’m Yao Peigen from Tongji University
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on Bioinformatics
