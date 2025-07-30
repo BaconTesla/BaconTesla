@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yao Peigen from Tongji University
+- 👋 Hi, I’m Peigen Yao from Tongji University
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning AI field
 - 💞️ I’m looking to collaborate on Bioinformatics
